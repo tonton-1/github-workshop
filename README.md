@@ -29,7 +29,7 @@ cat ~/.ssh/id_github_tutorial.pub
 ```bash
 git config core.sshCommand "ssh -i ~/.ssh/id_github_tutorial"
 ```
-
+wdadadaddwdadaddaddadadwdadadad
 ### 2. ตั้งค่าตัวตน (Local Config)
 เราจะตั้งค่าเฉพาะโฟลเดอร์นี้เท่านั้น ไม่ไปยุ่งกับ global
 ```bash
